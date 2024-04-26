@@ -3,6 +3,10 @@
 public class Main {
     public static void main(String[] args) {
 
+        Surgen s = new Surgen();
+        s.Doctor_Details();
+        s.Surgeon_Details();
+
 
     }
 }
